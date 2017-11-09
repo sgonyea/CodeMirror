@@ -21,9 +21,9 @@
 .cm-s-tomorrow-night-eighties .CodeMirror-guttermarker { color: #f2777a; }
 .cm-s-tomorrow-night-eighties .CodeMirror-guttermarker-subtle { color: #777; }
 .cm-s-tomorrow-night-eighties .CodeMirror-linenumber { color: #cccccc; }
-.cm-s-tomorrow-night-eighties .CodeMirror-cursor { border-left: 1px solid #6A6A6A; }
+.cm-s-tomorrow-night-eighties .CodeMirror-cursor { border-left: 1px solid rgba(255, 255, 255, 0.96); }
 
-.cm-s-tomorrow-night-eighties span.cm-comment { color: #d27b53; }
+.cm-s-tomorrow-night-eighties span.cm-comment { color: #999999; }
 .cm-s-tomorrow-night-eighties span.cm-atom { color: #a16a94; }
 .cm-s-tomorrow-night-eighties span.cm-number { color: #a16a94; }
 
@@ -31,7 +31,7 @@
 .cm-s-tomorrow-night-eighties span.cm-keyword { color: #f2777a; }
 .cm-s-tomorrow-night-eighties span.cm-string { color: #ffcc66; }
 
-.cm-s-tomorrow-night-eighties span.cm-variable { color: #99cc99; }
+.cm-s-tomorrow-night-eighties span.cm-variable { color: #CCCCCC; }
 .cm-s-tomorrow-night-eighties span.cm-variable-2 { color: #6699cc; }
 .cm-s-tomorrow-night-eighties span.cm-def { color: #f99157; }
 .cm-s-tomorrow-night-eighties span.cm-bracket { color: #CCCCCC; }
